@@ -1,0 +1,23 @@
+{
+  "name": "badword-ai",
+  "version": "1.0.0",
+  "description": "Inteligencia artificial que detecta una palabra vulgar en una oración",
+  "main": "index.js",
+  "now": {
+    "name": "badwordai",
+    "alias": "badwordai.now.sh"
+  },
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "keywords": [],
+  "author": "Jair Pérez Powered",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
